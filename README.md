@@ -253,6 +253,3 @@ All settings are in `.env` and mapped through `backend/core/config.py` via Pydan
 
 ---
 
-## Author
-
-**Shreyash Gaur** — AI Engineer
