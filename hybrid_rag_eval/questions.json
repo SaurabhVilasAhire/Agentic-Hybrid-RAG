@@ -1,0 +1,13 @@
+[
+  {
+    "id": "hotpot_5238",
+    "question": "In what year was the university where Sergei Aleksandrovich Tokarev was a professor founded?",
+    "gold_answer": "1755",
+    "supporting_titles": [
+      "Moscow State University",
+      "Sergei Aleksandrovich Tokarev"
+    ],
+    "hop_count": 2,
+    "category": "multi_hop"
+  }
+]
